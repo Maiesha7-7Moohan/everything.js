@@ -64,7 +64,6 @@ oddArray.sort((a, b) => a - b);
 
 console.log(oddArray);
 
-// Create object
 const me = {
   firstName: "Maiesha",
   lastName: "Moohan",
