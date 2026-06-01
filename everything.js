@@ -67,7 +67,7 @@ console.log(oddArray);
 const me = {
   firstName: "Maiesha",
   lastName: "Moohan",
-  age: 30,
+  age: 18,
   favouriteColour: "Purple",
   dreamCar: "’59 Cadillac Deville Pickup Truck",
 };
