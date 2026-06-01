@@ -46,7 +46,6 @@ function funkyMath() {
   return "Unsupported amount of arguments";
 }
 
-// Tests
 console.log(funkyMath(5, 10));
 console.log(funkyMath(1, 2, 3));
 console.log(funkyMath(7, 9, 1, 2));
